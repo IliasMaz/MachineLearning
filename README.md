@@ -6,26 +6,25 @@ Overview
 
 This repository contains various ML projects that I have developed during my training in Machine Learning. Each project explores different ML algorithms and techniques, providing insights into data processing, model training, evaluation, and optimization.
 
-Projects Included
 
 The repository consists of projects implementing diverse ML algorithms, such as:
 
-Supervised Learning
+-Supervised Learning
 
-Linear Regression
+-Linear Regression
 
-Logistic Regression
+-Logistic Regression
 
-Decision Trees
+-Decision Trees
 
-Random Forest
+-Random Forest
 
-Support Vector Machines (SVM)
+-Support Vector Machines (SVM)
 
-Neural Networks
+-Neural Networks
 
-Unsupervised Learning
+-Unsupervised Learning
 
-K-Means Clustering
+-K-Means Clustering
 
-Principal Component Analysis (PCA)
+-Principal Component Analysis (PCA)
